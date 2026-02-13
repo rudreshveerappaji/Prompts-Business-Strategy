@@ -1,6 +1,7 @@
 # Prompts-Business-Strategy
 
 ➤ SWOT Analysis
+
 Act as a business strategist. Generate a SWOT analysis for [INSERT BUSINESS] in the [INSERT INDUSTRY], using competitive market data and internal insights.
 
 ➤ Growth Levers
